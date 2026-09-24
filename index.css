@@ -1,0 +1,45 @@
+body {
+    background: linear-gradient(#023e8a, #c1121f);
+    height: 100vh;
+    margin: 0;
+    font-family: "Outfit", sans-serif;
+    font-size: 40px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.psg {
+    width: 300px;
+    padding: 5px;
+}
+
+.nike {
+    width: 240px;
+    padding: 5px;
+}
+
+.qatar {
+    width: 250px;
+    padding: 10px;
+}
+
+h1, h2 {
+    gap: 5px;
+    margin: 15px;
+}
+
+h2 {
+    text-shadow: 1px 1px 3px black;
+    color: white;
+    margin-top: 20px;
+}
+
+h1 {
+    text-shadow: 0px 0px 2px whitesmoke;
+    color: darkred;
+    font-size: 70px;
+    margin-bottom: 30px;
+}
