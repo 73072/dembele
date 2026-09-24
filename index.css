@@ -12,17 +12,19 @@ body {
 }
 
 .psg {
-    width: 300px;
-    padding: 5px;
+    width: 380px;
+    padding: 0px;
+    margin-left: 0px;
 }
 
 .nike {
-    width: 240px;
-    padding: 5px;
+    width: 300px;
+    padding: 0px;
+    margin-right: 0px;
 }
 
 .qatar {
-    width: 250px;
+    width: 300px;
     padding: 10px;
 }
 
